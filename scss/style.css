@@ -1,14 +1,10 @@
 .stupid {
   position: absolute;
-  background-image: url("workdesk.png");
+  background-image: url("/workdesk.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
   width: 100%;
-}
-
-#title {
-  font-weight: 700;
 }
 
 .purple {
@@ -16,16 +12,10 @@
 }
 
 #learn {
-  font-weight: 700;
+  font-weight: 500;
   background-color: #8B37FF;
   color: white;
-  margin-top: 3rem;
-  margin-bottom: 3rem;
   padding: 10px 40px 15px 40px;
-}
-
-hr {
-  margin-left: 25% !important;
 }
 
 #color {
